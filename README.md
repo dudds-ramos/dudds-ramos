@@ -54,3 +54,16 @@ Construir projetos práticos, compartilhar minha evolução e desenvolver soluç
 *Transformando conhecimento em projetos.*
 
 </div>
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudds-ramos&show_icons=true&theme=transparent&hide_border=true&title_color=00B8D9&icon_color=00B8D9&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudds-ramos&layout=compact&theme=transparent&hide_border=true&title_color=00B8D9&text_color=FFFFFF)
+
+</div>
